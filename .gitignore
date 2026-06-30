@@ -1,6 +1,10 @@
 # Ignore datasets and heavy variables
-processed_data/
-*.h5
-*.npy
-*.masterkey
+my_venv/
 .ipynb_checkpoints/
+__pycache__/
+*.log
+*.ipynb
+*.pdf
+*.png
+*.h5
+data/
